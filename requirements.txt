@@ -1,0 +1,8 @@
+streamlit
+requests
+beautifulsoup4
+sqlalchemy
+apscheduler
+pandas
+plotly
+python-dotenv
